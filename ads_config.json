@@ -1,16 +1,16 @@
 {
-  "remote_url": "https://raw.githubusercontent.com/Lambdacoder09/pdf_karo/main/ads_config.json",
+  "remote_url": "https://raw.githubusercontent.com/Lambdacoder09/pdf-karo-ads/main/ads_config.json",
   "phone": "917017853730",
   "left_banner": {
     "tag": "FOOD DELIVERY APP",
-    "image": "https://raw.githubusercontent.com/Lambdacoder09/pdf_karo/main/public/img/ads/sai_baba_left_skyscraper.jpg",
+    "image": "https://raw.githubusercontent.com/Lambdacoder09/pdf-karo-ads/main/sai_baba_left_skyscraper.jpg",
     "alt": "Sai Baba Software Solutions - Food Delivery App Like Zomato",
     "whatsapp_message": "Namaste Sai Baba Software Solutions, I want a Free Demo of your Food Delivery App (Like Zomato/Swiggy) for my restaurant/shop.",
     "phone": "917017853730"
   },
   "right_banner": {
     "tag": "SHOPPING APP",
-    "image": "https://raw.githubusercontent.com/Lambdacoder09/pdf_karo/main/public/img/ads/sai_baba_right_skyscraper.jpg",
+    "image": "https://raw.githubusercontent.com/Lambdacoder09/pdf-karo-ads/main/sai_baba_right_skyscraper.jpg",
     "alt": "Sai Baba Software Solutions - Shopping App Like Flipkart & Amazon",
     "whatsapp_message": "Namaste Sai Baba Software Solutions, I want a Free Demo of your Shopping App (Like Flipkart/Amazon) for my shop.",
     "phone": "917017853730"
