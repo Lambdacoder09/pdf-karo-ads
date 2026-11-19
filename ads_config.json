@@ -1,0 +1,35 @@
+{
+  "remote_url": "https://raw.githubusercontent.com/Lambdacoder09/pdf_karo/main/ads_config.json",
+  "phone": "917017853730",
+  "left_banner": {
+    "tag": "FOOD DELIVERY APP",
+    "image": "https://raw.githubusercontent.com/Lambdacoder09/pdf_karo/main/public/img/ads/sai_baba_left_skyscraper.jpg",
+    "alt": "Sai Baba Software Solutions - Food Delivery App Like Zomato",
+    "whatsapp_message": "Namaste Sai Baba Software Solutions, I want a Free Demo of your Food Delivery App (Like Zomato/Swiggy) for my restaurant/shop.",
+    "phone": "917017853730"
+  },
+  "right_banner": {
+    "tag": "SHOPPING APP",
+    "image": "https://raw.githubusercontent.com/Lambdacoder09/pdf_karo/main/public/img/ads/sai_baba_right_skyscraper.jpg",
+    "alt": "Sai Baba Software Solutions - Shopping App Like Flipkart & Amazon",
+    "whatsapp_message": "Namaste Sai Baba Software Solutions, I want a Free Demo of your Shopping App (Like Flipkart/Amazon) for my shop.",
+    "phone": "917017853730"
+  },
+  "footer_ad": {
+    "tag": "★ ONLINE ADVERTISEMENT SERVICE",
+    "title": "Sai Baba Software Solutions",
+    "headline": "Want More Customers for Your Shop?",
+    "description": "We run Google, Facebook & Instagram Ads in your local city. Customers call & WhatsApp you directly.",
+    "button_text": "Get Customers on WhatsApp",
+    "whatsapp_message": "Namaste Sai Baba Software Solutions, I just used PDF Karo and I want to know about your Online Advertising Service (Google & Facebook Ads) to get more daily customers for my business.",
+    "phone": "917017853730"
+  },
+  "bottom_ticker": {
+    "tag": "AD",
+    "title": "Sai Baba Software Solutions:",
+    "description": "Get Your Own Food Delivery App (Like Zomato) or Shopping App (Like Flipkart & Amazon) for Your Shop!",
+    "button_text": "Free Demo on WhatsApp",
+    "whatsapp_message": "Namaste Sai Baba Software Solutions, I want details about your shop app & billing software.",
+    "phone": "917017853730"
+  }
+}
